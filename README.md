@@ -51,6 +51,8 @@ Importing in Eclipse
 --------------------
 These instructions were tested on Eclipse IDE for Java EE Developers Luna SR2. You can get it from http://eclipse.org/downloads/
 
+testing commit
+
 To checkout and run the project in Eclipse, do:
 - File -> Import...
 - Check out Maven Projects from SCM
